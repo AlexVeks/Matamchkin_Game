@@ -71,4 +71,11 @@ Matamchkin's codebase is structured into a modular and scalable architecture, us
 
 Matamchkin's design leverages Object-Oriented Programming principles and design patterns such as Factory Method, Abstract Factory, and Strategy, providing a flexible codebase that's ready for expansion and new feature integrations.
 
+## System Architecture
+
+Below is the UML diagram that outlines theclass relationships within Matamchkin.
+This diagram reflects the current state of the system and will be updated as the project evolves.
+
+![Matamchkin UML Diagram](https://private-user-images.githubusercontent.com/39146925/322212070-8f4bb1da-3c12-46e7-90c8-fce51bf0cf23.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMwMTg4NzksIm5iZiI6MTcxMzAxODU3OSwicGF0aCI6Ii8zOTE0NjkyNS8zMjIyMTIwNzAtOGY0YmIxZGEtM2MxMi00NmU3LTkwYzgtZmNlNTFiZjBjZjIzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDEzVDE0MjkzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg2NmM5NzEyNjE3OWNhMDI5NDBhNjZjODIwNjcxOTVmNjU5NjM0NzY1ODg5M2QwMjQ4MmNiMDI3ZGY5ZDc1ZmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.4KYnd4QUE7L_gWL7qc_c-vAXAk6n9c4X2LXtHwQwslQ)
+
 
