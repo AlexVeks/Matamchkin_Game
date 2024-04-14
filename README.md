@@ -9,7 +9,7 @@ To set up Matamchkin on your local machine, follow these steps:
 1. **Clone the repository**
    - First, clone the Matamchkin repository from GitHub to your local computer using the following command:
      ```bash
-     git clone git@github.com:AlexVeks/Matamchkin_Game.git
+     git clone https://github.com/AlexVeks/Matamchkin_Game.git
      cd matamchkin
      ```
 
