@@ -1,6 +1,6 @@
 # Matamchkin_Game
 ## Description
-Matamchkin is a strategic game where players, each assuming a unique role with distinct behaviors, engage in battles against various encounters to earn treasures and glory.
+Matamchkin is a game where players, each assuming a unique role with distinct behaviors, engage in battles against various encounters to earn treasures and glory.
 The game showcases the use of design patterns.
 ## Installation Instructions and Usage
 
